@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/detail/detail"
+  ],
+  "window":{
+    "backgroundTextStyle":"white",
+    "navigationBarBackgroundColor": "#48C23D",
+    "navigationBarTitleText": "呦趣味",
+    "navigationBarTextStyle":"white",
+    "backgroundColor" : "#FFF"
+  },
+  "debug" : true
+}
